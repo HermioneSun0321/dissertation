@@ -1,0 +1,8 @@
+##########
+    Reference   Disclaimer
+
+The model built in this folder is largely based on the Elsahar et al., 2018 paper
+"Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types"
+Including their fundamental theory and part of the code.
+
+Original code can be find through GitHub link in the paper.
