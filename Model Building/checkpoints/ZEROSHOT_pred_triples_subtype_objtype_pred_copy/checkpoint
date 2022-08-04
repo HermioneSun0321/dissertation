@@ -1,0 +1,2 @@
+model_checkpoint_path: "ZEROSHOT_pred_triples_subtype_objtype_pred_copy-1000"
+all_model_checkpoint_paths: "ZEROSHOT_pred_triples_subtype_objtype_pred_copy-1000"
