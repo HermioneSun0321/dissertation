@@ -1,0 +1,9 @@
+##########
+    Reference   Disclaimer
+
+The bleu evaluation code in this folder is  based on the Elsahar et al., 2018 paper
+"Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types"
+and Papineni et al., 2022 paper 
+"Bleu: a method for automatic evaluation of machine translation"
+
+Original code can be find through GitHub link in the Elsahar et al., 2018 paper.
